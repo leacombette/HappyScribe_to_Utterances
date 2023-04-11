@@ -22,4 +22,5 @@ Lea Tan Combette
 3. Open the command prompt and navigate to your directory (e.g. if your .py and .txt files are in the "happyscribe" directory on your desktop, type the following command: > cd Desktop > cd happyscribe)
 4. Type the following command: python split.py [name of your text].txt (e.g. "python split.py Example.txt")
 5. Voila! Your utterances are now in a CSV file.
+6. 
 Note: If Python is not installed on your machine, it must be installed before proceeding to Step 4.
