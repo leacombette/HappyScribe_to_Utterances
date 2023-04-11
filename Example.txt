@@ -1,0 +1,11 @@
+[00:00:02.410] - Teacher
+Blablablabla
+
+[00:00:21.390] - Student
+Blabla, blablabla. Blablabla !
+
+[00:00:33.052] - Teacher
+Blablabla...
+
+[00:00:32.820] - Student
+Bla?
